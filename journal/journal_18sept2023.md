@@ -4,13 +4,13 @@
 Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-activity-and-worksheet#:~:text=%22Rose%2C%20Bud%2C%20Thorn%22%20is%20a%20mindful%20design%2D,day%2C%20week%2C%20or%20month.) model:
 
 ### Rose:
-It was very interesting to show how to navigate through wsl. This might become very helpful when playing with HPC. I very much appreciate the introduction to collaborative work through github. I have not explored that option before and plan to implement it to allow everyone in the lab to update the features of the lab website posted on github pages. 
+The last session was very interesting and incredibaly importnant for the scientific community. Although I was familiar with some open science principles, I learned a lot new things. In particular, I got familiar with different types of open science schools, the ethics of using/creating preprints.  
 
 ### Bud: 
-I might be working on the HPC soon.  I will consider navigating through wsl and will dig deeper into command types. For the github pages, I plan to clone Tyson repo (if that's something they allow) to create a personal project/CV website. Since it's written in markdown, I will need to spend more time on it. Also, the other day, Jeff showed how to get the tables from GPT + in the markdown format. My plan is to upload a pdf with my CV to Advanced Data Analysis model and ask to return it in markdown format. Then, I plan to use it to display my CV on the website. Will need to investigate more.  
+I would like to work on exploring more GitHub options. I still would like to test the collaborative options. Also, I would like to test zenodo and protocols.io platforms to archive my data upon publishing my paper I am currently working on. This way, I would like to contribute to open science by sharing my datasets, code and protocols.    
 
 ### Thorn: 
-I am still wondering how collaborative work look like when folks are using different branches in github and I pull different improvements of the same code to the main branch. It would be interesting to practice that, specifically if there's an option only to implement new lines of codes and not deleting others if there's a conflict between two files.  
+I tried to clone (copy) the repo for the last homework onto my GitHub, but it seems cloning is reserved for folders on the local machine or those meant to be copied to the local machine. I couldn't figure out how to copy the repo without forking it, so I eventually downloaded the files and uploaded them to my new repo.
 
 ## Additional thought
-I would like to hear more about creating Resume websites. Also, how I can implement working in the console or wsl on windows to help with the research (assuming I don't use software that require it). I am looking forward to hearing about new tools for data science. 
+I am looking forward to the presentation on the practical use of the aforementioned tools and software.
