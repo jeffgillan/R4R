@@ -10,7 +10,7 @@ The highlight from the previous FOSS session, such as something you found partic
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your research in the future. 
 
 ### Thorn: 
-Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. 
+Since I missed the sessions this week, I am trying to catch up in the information given, however being new on this it can be quite challenging, I am looking forward to attenging the sessions live so I can ask questions and get a better understanding of the tools we are using
 
 ## Additional thought
-Write anything that you think would be important for YOU later on.
+NA at the moment
