@@ -14,4 +14,4 @@ I struggled to follow up when getting to the Linux WSL, mostly because I could n
 
 
 ## Additional thought
-I appreciated the time Michele took to define, for example, what HackMD is and how to use it.
+I appreciated the time Michele took to define, for example, what HackMD is and particularlly the time to explain the general basic terms for us to use the Linux subsystem
