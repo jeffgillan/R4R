@@ -1,15 +1,15 @@
 # Learner Log Entry #3 
 
 ### Rose:
-I didn't realize the extent that open science is being promoted by researchers in various fields. All of the perspectives that I've heard in the FOSS lesson motivates me to implement open science practices in my own research.
-I am also interested in teaching other scientists and/or students about concepts related to open data and open-source software.
+I really enjoyed Wade Bishop's presentation and learned a lot about good data management practices. I've heard of FAIR, but I've actually never heard about CARE before. Although I'm working with some of these concepts now,
+these principles will be especially important for my postdoc (I will be trained to promote open and FAIR practices for field campaign data from aircraft and satellites). This session helped me with learning the definitions 
+of these various terms, but now I really have to think of how to apply FAIR principles in a meaningful way to the data sets I will work with.
 
 ### Bud: 
-I would like to motivate my lab group to have shared repositories for code and documentation/lab procedures. We have a shared research drive, but not everyone updates it all the time and it's a bit difficult to access.
-I think some of the tools from FOSS can be helpful in promoting a easy-access, centralized repository for research group materials. 
+I can do a better job of organizing my data files on my local machine. Even though I have labeled folders, knowing which data files I'm working with relies a lot on memory. This will not be helpful once I graduate and someone
+else needs to understand what data I'm using. I would like to talk more in the discussion section about better ways to organize files on my machine. 
 
 ### Thorn: 
-I think one challenge relates to my research group sharing code and lab documentation. We do an okay job, but I find our research drive a little inconvenient to access and there is no version control present.
-Another challenge could be meaningfully implementing open data practices in my research. For example, NASA's flight data is already shared on a public archive, but variable names are not standardized between 
-flight years or there is insufficient/unclear metadata to actually make sense of the variables. I am attempting to create netCDF flight files that more closely follow Climate and Forecasting (CF) conventions 
-(http://cfconventions.org/Data/cf-conventions/cf-conventions-1.10/cf-conventions.html), but there is still work to be done in terms of promoting more rigorous metadata standards.
+Typically, scientists at other agencies like NASA or the Office of Naval Research collect the data for me and then I analyze it. However, I mentioned last week that these data sometimes aren't standardized or have vague metadata. 
+The thorn is that other than downloading and organizing this files on my machine, I don't really have a say on how these files are produced. I can occasionally email the data PIs to make a quick adjustment, but I don't have the
+power to make significant recommendations regarding the data.
