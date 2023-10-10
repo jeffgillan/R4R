@@ -10,4 +10,4 @@ I think my reseach group can do more in terms of sharing our research to the pub
 misinformation spread about aerosols and climate change (https://twitter.com/MattGertz/status/1666791080258334723?s=20). Taking a lead on sharing our aerosol research would reduce this misinformation and maybe spark some change in science/climate change policy. This is 
 definitely not an easy task and seems daunting, but it is essential for tackling these urgent issues. 
 
-P.S. A fun (and maybe controversial) fact is that my lab actually uses Skype to communicate, but it's actually quite convenient for us. 
+P.S. A fun (and maybe controversial) fact is that my lab uses Skype to communicate, but it's actually quite convenient for us. 
