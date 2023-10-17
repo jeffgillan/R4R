@@ -4,13 +4,12 @@
 Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-activity-and-worksheet#:~:text=%22Rose%2C%20Bud%2C%20Thorn%22%20is%20a%20mindful%20design%2D,day%2C%20week%2C%20or%20month.) model:
 
 ### Rose:
-The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
+It was interesting to learn how to manage projects and conduct collaborative work using Git. I picked up a few initial steps from Jeffrey Sandstorm during R workshops some time ago, but this presentation expanded on that knowledge. I'll try to experiment with it on my own.
 
 ### Bud: 
-Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your research in the future. 
+I am planning to attend a workshop on SQLite and learn how to create, manage, deploy content, and modify my plant database. At the same time, I intend to upload my ShinyApp to Posit Connect and see how it functions. The app isn't finished yet, and I'm still searching for effective and straightforward ways to present data to a broad audience (both scientific and non-scientific). I am thinking of using plotly for some heatmaps and scatterplots. 
 
 ### Thorn: 
-Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. 
+
 
 ## Additional thought
-Write anything that you think would be important for YOU later on.
