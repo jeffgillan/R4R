@@ -9,5 +9,5 @@ capabilities for my research. Although I'm the only one who makes changes to my 
 ### Thorn:
 I need more explanation of why we use gitignore files. I understand how to implement them, but I'm not sure why they would be useful in my own repos.
 
-Going back to the website topic, I would like to learn how to put custom themes and logos on my website. I tried downloading a custom theme and editing my mkdocs files, but it
+Going back to the website topic, I would like to learn how to put custom themes and logos on my website. I tried downloading a custom theme and editing my mkdocs file, but it
 didn't work for some reason.
